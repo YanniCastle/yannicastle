@@ -10,6 +10,7 @@
 
 <body>
   <h1>Bienvenido al sitio de Yanni Castle</h1>
+  <h2>Aquí probando la conexión</h2>
 </body>
 
 </html>

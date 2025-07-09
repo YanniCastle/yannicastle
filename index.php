@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <h1>Bienvenido al sitio de Yanni Castle nnn</h1>
+  <h1>Bienvenido al sitio de Yanni Castle</h1>
 </body>
 
 </html>
